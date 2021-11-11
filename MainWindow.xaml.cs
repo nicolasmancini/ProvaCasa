@@ -23,6 +23,7 @@ namespace Prova1
         public MainWindow()
         {
             InitializeComponent();
+            //Ciao
         }
     }
 }
